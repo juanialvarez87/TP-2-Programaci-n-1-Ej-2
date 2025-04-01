@@ -1,2 +1,2 @@
-# TP-2-Programaci-n-1-Ej-2
-Repositorio del Ejercicio 2  
+# TP-2-Programacion-1-Ej-2-A
+Repositorio del Ejercicio 2 A 
